@@ -12,6 +12,8 @@
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-20C77A?style=flat-square)](https://agentskills.io/)
 [![Easy WebBridge](https://img.shields.io/badge/runtime-Easy%20WebBridge-111827?style=flat-square)](https://github.com/xxjrq/easy-webbridge)
+[![GitHub Stars](https://img.shields.io/github/stars/xxjrq/easy-google-play?style=flat-square)](https://github.com/xxjrq/easy-google-play/stargazers)
+[![skills.sh](https://skills.sh/b/xxjrq/easy-google-play)](https://skills.sh/xxjrq/easy-google-play)
 [![License](https://img.shields.io/badge/license-MIT-16A34A?style=flat-square)](LICENSE)
 
 </div>
