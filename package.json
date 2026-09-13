@@ -1,6 +1,6 @@
 {
   "name": "easy-google-play",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Cross-agent Google Play Console release skill powered by Easy WebBridge",
   "type": "module",
   "private": false,

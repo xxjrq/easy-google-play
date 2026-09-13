@@ -4,7 +4,7 @@ description: 自动完成 Android 应用的 Google Play 上架工作。Use when 
 license: MIT
 metadata:
   author: xxjrq
-  version: "0.2.0"
+  version: "0.2.1"
   runtime: "easy-webbridge >=0.3.2"
   runtime-repository: "https://github.com/xxjrq/easy-webbridge"
 ---
